@@ -11,6 +11,6 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/calculations-0.0.1-SNAPSHOT.jar
-    - target/calculationIU-0.0.1-SNAPSHOT.jar
-    - target/calculationCircuitbreaker-0.0.1-SNAPSHOT.jar
+    - calculations/target/calculations-0.0.1-SNAPSHOT.jar
+    - calculationIU/target/calculationIU-0.0.1-SNAPSHOT.jar
+    - calculationCircuitbreaker/target/calculationCircuitbreaker-0.0.1-SNAPSHOT.jar
