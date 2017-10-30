@@ -8,7 +8,7 @@
   <version>NO_VERSION</version>
   <packaging>pom</packaging>
   <modules>
-    <module>.</module>
+    
     <module>calculationCircuitbreaker</module>
     <module>calculationIU</module>
     <module>calculations</module>
